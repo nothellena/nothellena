@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F2F2F2&lines=well%2C+hello+there)](https://git.io/typing-svg)
 
 - 📚 I'm a computer science student at Universidade Federal de Alagoas(UFAL) in Brasil. Currently, I'm a scientific reseacher and resident at LaCCAN (UFAL's Scientific Computing and Numeric Analysis laboratory).
-- Data enthusiast.
+- 📈 Data enthusiast.
 - 🌱 Currently learning about React, PostgreSQL and Web Development.
 - 💛 she/her.
 
@@ -30,8 +30,8 @@
 <div align="center">
   <br>
   <a href="https://github.com/nothellena">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nothellena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothellena&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nothellena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://api.githubtrends.io/user/svg/nothellena/langs?theme=dark"/>
     </a>
 
 
