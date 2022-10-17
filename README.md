@@ -1,8 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F2F2F2&lines=well%2C+hello+there)](https://git.io/typing-svg)
 
-<img align="left" src="https://cdn140.picsart.com/244245229014212.png" width="456" height="335" frameBorder="0" class="img" allowFullScreen></img>
-- 📚 I'm a computer science student at Universidade Federal de Alagoas(UFAL) in Brasil. Currently, I'm a scientific reseacher at LaCCAN (UFAL's Scientific Computing and Numeric Analysis laboratory) and Probability & Statistics monitor at UFAL's Computer Department.
-- 🌱 Currently learning about R, Data Science and Deep Learning.
+- 📚 I'm a computer science student at Universidade Federal de Alagoas(UFAL) in Brasil. Currently, I'm a scientific reseacher and resident at LaCCAN (UFAL's Scientific Computing and Numeric Analysis laboratory).
+- Data enthusiast.
+- 🌱 Currently learning about React, PostgreSQL and Web Development.
 - 💛 she/her.
 
 [![E-mail](https://img.shields.io/badge/-hac@ic.ufal.br-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:hac@ic.ufal.br?subject=Hello,%20Hellena!%20)](mailto:hac@ic.ufal.br?subject=Hello,%Hellena!%20 "E-mail")
@@ -11,6 +11,11 @@
 ## Languages and tools I'm familiar with
 
 <div>
+  <img align="center" alt="Javascript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="React" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+      <img align="center" alt="Vue" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+            <img align="center" alt="Vue" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+        <img align="center" alt="Posgresql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
